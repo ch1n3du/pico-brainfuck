@@ -1,0 +1,11 @@
+Running an op
+At loop_start pc is [1] := 0
+Running an op
+chary: '3'
+[3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Running an op
+Running an op
+At beginning of loop_end pc is [4] := 0
+Done with the lick
+At beginning of loop_end pc is [4] := 0
+Running an op
