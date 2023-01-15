@@ -8,7 +8,5 @@ mod op;
 
 pub fn run(src: &[u8]) {
     let ops = Lexer::lex(src);
-
-    println!("{:?}", &ops[0..4]);
     Interpreter::interpret(&ops)
 }

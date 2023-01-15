@@ -31,7 +31,6 @@ impl Interpreter {
     }
 
     fn run_op(&mut self, op: Op) {
-        // println!("[{}]:  {op:?}", self.pc);
         match op {
             Op::Left(n) => {
                 self.cursor -= n;
